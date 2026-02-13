@@ -3,8 +3,4 @@
 
 <br />
 
-- 🌱 I’m currently learning **ReactJS, React Native, NodeJS**
-
-- 💬 Ask me about **C#, .NET Core, Angular, HTML, CSS**
-
 - 📫 How to reach me **iuriamauri@gmail.com**
